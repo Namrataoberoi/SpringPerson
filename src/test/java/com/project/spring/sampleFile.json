@@ -1,0 +1,11 @@
+{
+	"firstName": "John",
+	"lastName": "Grey",
+	"addressList": [
+    {
+		"street": "Belgard Square Road",
+		"city": "South Dublin",
+		"state": "Dublin",
+		"postalCode": "D24"
+	}]
+}
